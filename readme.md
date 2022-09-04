@@ -1,4 +1,4 @@
-# GuideBot
+# Guide Bot
 
 With this telegram bot, users can be guided when driving to a destination.
 
